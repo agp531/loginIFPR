@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercicio 1</string>
+    <string name="banner">banner</string>
+    <string name="logar">Acessar</string>
+    <string name="checkbox">Lembrar minha senha</string>
+    <string name="cpf">CPF</string>
+    <string name="recuperarSenha">Esqueci minha senha</string>
+    <string name="guest">Acessar como visitante</string>
+    <string name="register">Cadastrar-se</string>
+</resources>
